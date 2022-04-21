@@ -1,0 +1,23 @@
+##########
+# Python #
+##########
+*__pycache__*
+*.pytest_cache*
+*.ipynb_checkpoints*
+*.ipynb
+*.coverage*
+*build*
+*dist*
+
+##########
+# Git    #
+##########
+*.git
+
+
+#########
+# IDE   #
+#########
+/.idea
+/classes
+*.iml
